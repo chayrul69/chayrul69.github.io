@@ -35,3 +35,6 @@ body{
 /* .humberger-active{
 
 } */ 
+a{
+    @apply transition duration-300;
+}
